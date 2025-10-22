@@ -31,7 +31,9 @@ A simple online chat app built in Java using socket programming for real-time me
 - Tables: `users` (usernames, password hashes), `chat_logs` (timestamps, senders, messages).
 
 ## Screenshots
-(Add images here—e.g., upload console screenshots to repo and link: ![Chat Demo](demo.png))
+![alt text](image.png)
+![alt text](image-1.png)
+
 
 ## Challenges and Learnings
 - Handled concurrency with threads to avoid blocking.
